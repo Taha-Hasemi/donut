@@ -1,0 +1,15 @@
+C:\Users\Victus\source\repos\Donut3D\Donut3D\bin\Debug\net6.0\Donut3D.exe
+C:\Users\Victus\source\repos\Donut3D\Donut3D\bin\Debug\net6.0\Donut3D.deps.json
+C:\Users\Victus\source\repos\Donut3D\Donut3D\bin\Debug\net6.0\Donut3D.runtimeconfig.json
+C:\Users\Victus\source\repos\Donut3D\Donut3D\bin\Debug\net6.0\Donut3D.dll
+C:\Users\Victus\source\repos\Donut3D\Donut3D\bin\Debug\net6.0\Donut3D.pdb
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.AssemblyInfo.cs
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.dll
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\refint\Donut3D.dll
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.pdb
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\Donut3D.genruntimeconfig.cache
+C:\Users\Victus\source\repos\Donut3D\Donut3D\obj\Debug\net6.0\ref\Donut3D.dll
